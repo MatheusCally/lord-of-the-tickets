@@ -11,7 +11,7 @@ This project is a cross-platform application (currently works on Web and Android
 
 ---
 
-## Table of Contents (Optional)
+## Table of Contents
 
 * [✨ Features](#-features)
 * [📱 Supported Platforms](#-supported-platforms)
@@ -125,8 +125,6 @@ Before you begin, ensure you have the following installed on your machine:
 
 For Android users who wish to install the application, `.apk` files for stable versions will be made available in the **[Releases](https://github.com/MatheusCally/lord-of-the-tickets/releases)** section of this repository.
 
-*(Replace the link above with the correct link to your repository's Releases section after creating your first release.)*
-
 **Note:** To install a downloaded APK, you will need to enable the "Install from unknown sources" option in your Android device's security settings.
 
 ---
@@ -153,9 +151,9 @@ This project is distributed under the **MIT License**. See the `LICENSE` file in
 
 ---
 
-## 🙏 Acknowledgements (Optional)
+## 🙏 Acknowledgements
 
 * Thank specific libraries that were crucial.
-* Thank Zaqueu Ribeiro for the ideas that inspired this project.
+* Thanks Zaqueu Ribeiro for the ideas that inspired this project.
 
 ---
