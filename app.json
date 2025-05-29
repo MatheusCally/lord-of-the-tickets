@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "lord-of-the-tickets",
+    "name": "Lord of the Tickets",
     "slug": "lord-of-the-tickets",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -16,14 +16,21 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.matheuscally.lordofthetickets",
+      "versionCode": 1,
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "foregroundImage": "./assets/lordofthetickets.png",
+        "backgroundColor": "#000000"
       },
       "edgeToEdgeEnabled": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0a504793-7989-4a6f-9629-ff0c2c5522ce"
+      }
     }
   }
 }
